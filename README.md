@@ -1,4 +1,4 @@
-# Exchange Rate Fetch Service
+# National Bank of North Macedonia (NBRM) Exchange Rate Fetch Service
 
 This Node.js service fetches exchange rates from the National Bank of North Macedonia and stores them in multiple MySQL databases. 
 The service supports both daily scheduled fetching and debugging mode for frequent interval-based fetching. Multiple database connections are supported, and connections are dynamically managed through a configuration file.
